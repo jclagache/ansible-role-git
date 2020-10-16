@@ -6,6 +6,5 @@ git_install_from_source_dependencies:
   - zlib-devel
   - perl-devel
   - openssl-devel
-  - subversion-perl
   - make
   - gcc
